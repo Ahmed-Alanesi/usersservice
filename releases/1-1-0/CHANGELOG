@@ -1,0 +1,7 @@
+Features:
+
+- Add user
+- Update user
+
+Bug Fixes:
+- Check email when registering new user
